@@ -9,11 +9,5 @@ Technology Used Python ,Pandas (data manipulation),NumPy (numerical operations),
 
 Results
 
-Built a consolidated dataset of customer, campaign, and transaction data.
-
-Identified that promotional campaigns significantly increased ticket purchases.
-
-Found seasonal trends and demographic patterns (e.g., age, region).
-
-Delivered clear visualizations that support marketing decision-making
+Built a consolidated dataset of customer, campaign, and transaction data,Identified that promotional campaigns significantly increased ticket purchases.,Found seasonal trends and demographic patterns (e.g., age, region),Delivered clear visualizations that support marketing decision-making
 
