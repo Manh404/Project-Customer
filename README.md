@@ -28,3 +28,69 @@ This project involves end-to-end data analysis on a real-world dataset including
 → Spikes in traffic coincide with blockbuster movie releases and festive seasons.
 
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/51d2f3aa-33ad-4435-95fc-1dec0e5b63d9" />
+
+## 1. Device and Platform Usage
+* Mobile dominates: 86% of users access via mobile, only 11% use websites.
+
+* App-based usage is dominant; website use significantly dropped in 2022.
+
+Operating System:
+
+* 45% Android, 40% iOS, remaining users unidentified (likely due to device tracking limitations).
+
+Time of Usage:
+
+* Many unknown devices due to lack of trackable info during payment phase.
+
+* Hypothesis: Most untracked transactions come from app-based payments.
+
+## 2. Payment Method Behavior
+Preferred Payment Channels:
+
+* Bank cards and apps are the most common.
+
+* App-based direct payment grew strongly in 2022.
+
+* Some users likely skip login or skip wallet binding.
+
+* Cash usage is minimal.
+
+Conclusion: Mobile app with embedded payment is key to conversion.
+
+## 3. Promotional Program Impact
+Main Types:
+
+* Voucher, Discount, Reward Points.
+
+* Discounts became increasingly popular in 2022 — possibly a strategic move.
+
+* Nearly 60% of businesses used promotions as a sales strategy.
+
+## 4. Popular Movie Genres and Audience Behavior
+* Users tend to favor action or blockbuster films.
+
+Seasonal trends:
+
+* Viewership spikes during school holidays, festive seasons.
+
+* Promotions are often aligned with major releases.
+
+## 5. Customer Behavior Insights
+Some customers only respond to one-time promotions (likely new users).
+
+Promotions related to specific products or marketing campaigns are most effective.
+
+* ~50% of users respond to promotions just once.
+
+* ~90% of users who engage in promotions opt for direct discounts over points or bundles.
+
+## 6. Segment-Specific Behavior
+Certain customer groups:
+
+* Have a 10% share rate (SR), possibly tied to profits.
+
+* Appear unaffected by overly complex promotions — keep it simple.
+
+* Promotions that are too frequent or vague may result in low conversion.
+
+
