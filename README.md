@@ -5,18 +5,10 @@ This project involves end-to-end data analysis on a real-world dataset including
 
  * Skills : Applied Data Cleaning and Preprocessing, Exploratory Data Analysis (EDA),Data VisualizationFeature ,EngineeringPivot ,Tables and Time Series Analysis,Insight Communication and Dashboarding
 
-* Technology Used
-Python (main language)
-
-Pandas (data manipulation)
-
-NumPy (numerical operations)
-
-Matplotlib (visualization)
-
-
+* Technology Used Python ,Pandas (data manipulation),NumPy (numerical operations),Matplotlib (visualization)
 
  * Results
+
 Built a consolidated dataset of customer, campaign, and transaction data.
 
 Identified that promotional campaigns significantly increased ticket purchases.
