@@ -14,3 +14,4 @@ Python ,Pandas (data manipulation),NumPy (numerical operations),Matplotlib (visu
 ## Results 
 Built a consolidated dataset of customer, campaign, and transaction data,Identified that promotional campaigns significantly increased ticket purchases.,Found seasonal trends and demographic patterns (e.g., age, region),Delivered clear visualizations that support marketing decision-making
 
+<img width="723" alt="Image" src="https://github.com/user-attachments/assets/388a052c-0422-4d11-857f-2cf5173d0486" />
