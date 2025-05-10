@@ -10,7 +10,9 @@ This project involves end-to-end data analysis on a real-world dataset including
 ## Gender distribution
 * Gender is not clearly differentiated
 
-<img width="723" alt="Image" src="https://github.com/user-attachments/assets/388a052c-0422-4d11-857f-2cf5173d0486" />
-<img width="719" alt="Image" src="https://github.com/user-attachments/assets/b4608dac-8019-4f11-8cbb-c8034afdfc00" />
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/388a052c-0422-4d11-857f-2cf5173d0486" />
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/b4608dac-8019-4f11-8cbb-c8034afdfc00" />
 
 ## Time
+
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/51d2f3aa-33ad-4435-95fc-1dec0e5b63d9" />
