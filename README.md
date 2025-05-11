@@ -141,4 +141,14 @@ Certain customer groups:
 * <img width="805" alt="Ảnh màn hình 2025-05-11 lúc 10 45 59" src="https://github.com/user-attachments/assets/54f804be-e858-43ff-86b5-bea26108bf63" />
 
 
+## 9 A/B testing
+
+Null Hypothesis (H₀): Conversion rates for vouchers and discounts are equal.
+
+Alternative Hypothesis (H₁): Conversion rates differ between voucher and discount promotions.
+<img width="343" alt="Ảnh màn hình 2025-05-11 lúc 15 30 56" src="https://github.com/user-attachments/assets/51a2ab12-7fd4-4132-ace0-38d2b81487b4" />
+
+Discount campaigns performed significantly better and should be prioritized in future marketing strategies.
+
+
 
