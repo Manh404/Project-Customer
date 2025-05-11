@@ -1,4 +1,4 @@
-# Project-Customer
+# Project-MOVIE TICKET SALES ANALYTICS 
 
 
 This project involves end-to-end data analysis on a real-world dataset including customer profiles, ticket purchase history, device usage, campaign details, and status logs. The data is cleaned, merged, and visualized to uncover patterns in ticket purchases, customer demographics, and campaign performance. The notebook generates actionable insights into which customer segments respond to promotions and how behavior varies over time.
