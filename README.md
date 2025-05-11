@@ -33,13 +33,19 @@ This project involves end-to-end data analysis on a real-world dataset including
 
 <img width="326" alt="Image" src="https://github.com/user-attachments/assets/18b5f877-fd3b-4361-b951-5c7370918bcd" />
 
+<img width="622" alt="Image" src="https://github.com/user-attachments/assets/b2dfd544-77c8-4955-93aa-80f3688705d5" />
+
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/726dbbc8-b283-44c7-baea-2de92bb22b90" />
+
 * Mobile dominates: 86% of users access via mobile, only 11% use websites.
 
 * App-based usage is dominant; website use significantly dropped in 2022.
 
-<img width="622" alt="Image" src="https://github.com/user-attachments/assets/b2dfd544-77c8-4955-93aa-80f3688705d5" />
+
 
 Operating System:
+
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/ef45fd7e-2bd8-44a4-afcf-98d6813ec3e6" />
 
 * 45% Android, 40% iOS, remaining users unidentified (likely due to device tracking limitations).
 
@@ -49,7 +55,11 @@ Time of Usage:
 
 * Hypothesis: Most untracked transactions come from app-based payments.
 
+
 ## 2. Payment Method Behavior
+
+<img width="1014" alt="Image" src="https://github.com/user-attachments/assets/90e4ae14-8fed-4ead-a718-efd60e3ba1fd" />
+
 Preferred Payment Channels:
 
 * Bank cards and apps are the most common.
