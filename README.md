@@ -75,6 +75,8 @@ Conclusion: Mobile app with embedded payment is key to conversion.
 ## 3. Promotional Program Impact
 Main Types:
 
+<img width="1019" alt="Image" src="https://github.com/user-attachments/assets/ca1ef69f-f232-4b61-9c3e-96c4d8d1ffe7" />
+
 * Voucher, Discount, Reward Points.
 
 * Discounts became increasingly popular in 2022 — possibly a strategic move.
@@ -82,6 +84,11 @@ Main Types:
 * Nearly 60% of businesses used promotions as a sales strategy.
 
 ## 4. Popular Movie Genres and Audience Behavior
+
+<img width="1339" alt="Image" src="https://github.com/user-attachments/assets/08ed2883-b416-4814-9e24-fbaf782aa475" />
+
+<img width="568" alt="Image" src="https://github.com/user-attachments/assets/d1359e27-d2e7-4043-9db6-64cfda4841ce" />
+
 * Users tend to favor action or blockbuster films.
 
 Seasonal trends:
