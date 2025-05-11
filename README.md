@@ -30,9 +30,11 @@ This project involves end-to-end data analysis on a real-world dataset including
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/51d2f3aa-33ad-4435-95fc-1dec0e5b63d9" />
 
 ## 1. Device and Platform Usage
+<img width="326" alt="Image" src="https://github.com/user-attachments/assets/18b5f877-fd3b-4361-b951-5c7370918bcd" />
 * Mobile dominates: 86% of users access via mobile, only 11% use websites.
 
 * App-based usage is dominant; website use significantly dropped in 2022.
+<img width="622" alt="Image" src="https://github.com/user-attachments/assets/b2dfd544-77c8-4955-93aa-80f3688705d5" />
 
 Operating System:
 
