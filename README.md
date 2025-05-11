@@ -98,13 +98,18 @@ Seasonal trends:
 * Promotions are often aligned with major releases.
 
 ## 5. Customer Behavior Insights
+<img width="772" alt="Image" src="https://github.com/user-attachments/assets/316d58f3-58d4-4c92-95b2-05dc06a00821" /> 
+
 Some customers only respond to one-time promotions (likely new users).
 
 Promotions related to specific products or marketing campaigns are most effective.
 
+<img width="533" alt="Image" src="https://github.com/user-attachments/assets/43302af3-d2e4-4c2f-b2b4-47bea42df4e7" />
+
 * ~50% of users respond to promotions just once.
 
 * ~90% of users who engage in promotions opt for direct discounts over points or bundles.
+
 
 ## 6. Segment-Specific Behavior
 Certain customer groups:
@@ -114,5 +119,26 @@ Certain customer groups:
 * Appear unaffected by overly complex promotions — keep it simple.
 
 * Promotions that are too frequent or vague may result in low conversion.
+
+## 7. Customer Retention
+<img width="565" alt="Image" src="https://github.com/user-attachments/assets/cc5196e2-41a8-44fd-bf63-a54a409819c3" />
+
+<img width="564" alt="Image" src="https://github.com/user-attachments/assets/c86b4794-2f05-4719-a9fe-2516a4c2483b" />
+
+* Retention in 2019 and 2022 does not have many changes, because the new film market has not recovered.
+
+* There is no difference in retention between organic and promotional groups ( 97% promotion in 2022 is for NEW CUSTOMERS , Only 13% customers comeback , The rate in the organic group is 12% )
+
+## 8. Payment success rate
+<img width="675" alt="Image" src="https://github.com/user-attachments/assets/4dce93e4-36d5-4d07-bb6b-77ddf619579e" />
+
+* Good system and products to serve customers
+
+*Common errors (bank errors, account identification errors)
+* <img width="711" alt="Ảnh màn hình 2025-05-11 lúc 10 45 34" src="https://github.com/user-attachments/assets/a9b8f070-076c-4e3c-90c1-85073eb3a5c7" />
+
+
+* <img width="805" alt="Ảnh màn hình 2025-05-11 lúc 10 45 59" src="https://github.com/user-attachments/assets/54f804be-e858-43ff-86b5-bea26108bf63" />
+
 
 
